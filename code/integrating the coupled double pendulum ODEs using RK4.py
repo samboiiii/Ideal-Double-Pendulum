@@ -95,4 +95,4 @@ def update(frame):
 anim=FuncAnimation(fig,update,frames=total_frames,interval=16,blit=True)
 pt.legend(fontsize=7)
 print('saving animation')
-anim.save("double_pendulum.html",writer='html',fps=60)
+anim.save("double_pendulum.mp4",writer='ffmpeg',fps=60)
