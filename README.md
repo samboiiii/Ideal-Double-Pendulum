@@ -1,7 +1,7 @@
 # Ideal-Double-Pendulum
 
 
-<video src="https://github.com/user-attachments/assets/1c8e92d8-bb60-4b22-9ca0-a5ff6247a389" width="50%" autoplay loop muted>
+<video src="https://github.com/user-attachments/assets/1c8e92d8-bb60-4b22-9ca0-a5ff6247a389" width="25%" autoplay loop muted>
 </video>
 
 
