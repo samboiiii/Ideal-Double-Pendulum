@@ -24,6 +24,10 @@ different trajectories, demonstrating sensitivity to initial conditions.
 Together with the system's non-integrability and bounded dynamics, this
 indicates chaotic behaviour.
 
+| $\theta$ vs Time | $\phi$ vs Time |
+| :---: | :---: |
+| ![Theta vs Time](figures/angle vs time/theta vs t.png) | ![Phi vs Time](figures/angle vs time/phi vs t.png) |
+
 The evolution of an infinitesimal perturbation is then studied through its
 variational equations, and the maximal Lyapunov exponent is calculated using the
 Benettin algorithm, quantifying the exponential divergence of nearby
