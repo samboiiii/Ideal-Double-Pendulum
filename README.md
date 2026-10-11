@@ -24,7 +24,7 @@ different trajectories, demonstrating sensitivity to initial conditions.
 Together with the system's non-integrability and bounded dynamics, this
 indicates chaotic behaviour.
 
-| $\theta$ vs Time | $\phi$ vs Time |
+| θ vs Time | φ vs Time |
 | :---: | :---: |
 | ![Theta vs Time](figures/angle_vs_time/theta_vs_t.png) | ![Phi vs Time](figures/angle_vs_time/phi_vs_t.png) |
 
@@ -40,7 +40,7 @@ trajectories.
 Poincaré sections for various energy levels are then plotted to visualize the
 geometric structure of regular and chaotic dynamics.
 
-| $E = 0\text{ J}$ | $E = 490\text{ J}$ |
+| E = 0J | E = 490J |
 | :---: | :---: |
 | ![Poincare 0J](figures/poincare_sections/0_joules.png) | ![Poincare 490J](figures/poincare_sections/490_joules.png) |
 
