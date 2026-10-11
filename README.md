@@ -36,6 +36,10 @@ trajectories.
 Poincaré sections for various energy levels are then plotted to visualize the
 geometric structure of regular and chaotic dynamics.
 
+| $E = 0\text{ J}$ | $E = 490\text{ J}$ |
+| :---: | :---: |
+| ![Poincare 0J](figures/poincare_sections/0_joules.png) | ![Poincare 490J](figures/poincare_sections/490_joules.png) |
+
 All simulations were implemented using open-source Python libraries,
 specifically NumPy and Matplotlib.
 
