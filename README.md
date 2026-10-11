@@ -33,6 +33,10 @@ variational equations, and the maximal Lyapunov exponent is calculated using the
 Benettin algorithm, quantifying the exponential divergence of nearby
 trajectories.
 
+| Test for exponential divergence | Convergence of the maximal Lyapunov exponent |
+| :---: | :---: |
+| ![Exp divergence](figures/lyapunov_exponent/test_for_exponential_divergence.png) | ![Lyapunov convergence](figures/lyapunov_exponent/convergence_of_the_maximal_lyapunov_exponent.png) |
+
 Poincaré sections for various energy levels are then plotted to visualize the
 geometric structure of regular and chaotic dynamics.
 
