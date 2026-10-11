@@ -1,4 +1,10 @@
 # Ideal-Double-Pendulum
+
+
+<video src="https://github.com/user-attachments/assets/1c8e92d8-bb60-4b22-9ca0-a5ff6247a389" width="100%" autoplay loop muted>
+</video>
+
+
 Analytical and Numerical analysis of the chaotic behavior of the ideal Double Pendulum
 
 This project aims to explore numerical and analytical techniques to analyze and
