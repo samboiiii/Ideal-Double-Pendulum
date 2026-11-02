@@ -42,7 +42,7 @@ geometric structure of regular and chaotic dynamics.
 
 | E = 0J | E = 490J |
 | :---: | :---: |
-| ![Poincare 0J](figures/poincare_sections/0_joules.png) | ![Poincare 490J](figures/poincare_sections/490_joules.png) |
+| ![Poincare 0J](figures/poincare_sections/phase_space_sections_(unequal_lengths_and_masses)/0_joules.png) | ![Poincare 490J](figures/poincare_sections/state_space_sections_(unequal_lengths_and_masses)/490_joules.png) |
 
 All simulations were implemented using open-source Python libraries,
 specifically NumPy and Matplotlib.
